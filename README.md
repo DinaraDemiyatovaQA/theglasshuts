@@ -8,6 +8,8 @@ Website was hosted on:
 
 https://dinarademiyatovaqa.github.io/theglasshuts/
 
+Website's markup looks good enough for screens of sizes around 1440*900.
+
 ## Technologies
 
 HTML, CSS
