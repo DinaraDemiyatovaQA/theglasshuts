@@ -431,7 +431,7 @@ header button {
 }
 
 .book-hut-container {
-    margin: -0.15em 0 0 0;
+    margin: -0.3em 0 0 0;
     display: flex;
     justify-content: space-between;
 }
